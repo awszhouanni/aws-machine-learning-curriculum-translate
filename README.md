@@ -35,4 +35,4 @@ After you have all the accounts set up, you can open the Jupyter notebooks that 
 
 <img width="897" alt="Amazon SageMaker Console GitHub Repositories" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
 
-Now, you can access the repostories through Amazon SageMaker's notebook instances. Choose the notebook instance titled **Module #1**. Choose **Open Jupyter Notebook.** Then, choose the file "Translate text into spoken translations with Amazon Translate and Amazon Polly" to begin the curriculum.
+Now, you can access the repostories through Amazon SageMaker's notebook instances. Choose the notebook instance titled **Module #1**. Choose **Open JupyterLab.** Then, choose the file "Translate text into spoken translations with Amazon Translate and Amazon Polly" to begin the curriculum.
