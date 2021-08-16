@@ -30,7 +30,7 @@ After you have all the accounts set up, you can open the Jupyter notebooks that 
 2. Go to the Amazon SageMaker Console.
 3. Find Notebook on the left navigation bar. Choose Git repositories. 
 4. Choose GitHub/Other Git-based repo. 
-5. Input a unique SageMaker repository name and paste this GitHub Repository's URL. 
+5. Input a unique SageMaker repository name and paste this GitHub Repository's URL (https://github.com/awszhouanni/aws-machine-learning-curriculum-translate). 
 
 
 <img width="897" alt="Amazon SageMaker Console GitHub Repositories" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
