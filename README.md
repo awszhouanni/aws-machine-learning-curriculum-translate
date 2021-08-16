@@ -7,14 +7,14 @@ AWS is a cloud computing platform where businesses access technologies to easily
 
 ## Overview
 
-This GitHub Repostiory contains Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing. Through the next series of modules, these modules will introduce the basics of machine learning (ML) so you can become ML literate. Users will follow step-by-step tutorials about how to use AWS services to solve real-world problems. 
+This GitHub RRepository contains Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing. Through the next series of modules, these modules will introduce the basics of machine learning (ML) so you can become ML literate. Users will follow step-by-step tutorials about how to use AWS services to solve real-world problems. 
 
 
 ## Background 
 
 These notebooks are intended for individuals working in technical roles who want to use AWS services for their business. Prior background in Python and Jupyter Notebooks is assumed. No mathematical or statistical background is required. 
 
-The notebooks can be opened through [Amazon SageMaker](https://aws.amazon.com/sagemaker/). Amazon SageMaker is a fully managed service for machine learning workflows. 
+The notebooks can be opened through [Amazon SageMaker](https://aws.amazon.com/sagemaker/). Amazon SageMaker is a fully managed service for machine learning workflows. They can be opened using [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html#:~:text=JupyterLab%20is%20a%20next%2Dgeneration,%2C%20integrated%2C%20and%20extensible%20manner.). JupyterLab lets you work with Jupyter Notebooks and other files in an integrated web-based user interface.
 
 ## Before You Begin 
 
