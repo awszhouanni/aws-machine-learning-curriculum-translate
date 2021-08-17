@@ -28,21 +28,21 @@ After you have all the accounts set up, you can open the Jupyter notebooks that 
 
 1. Log into AWS account. 
 2. Go to the Amazon SageMaker Console.
-3. Find Notebook on the left navigation bar. Choose _Notebook instances_. 
-4. Choose _Create notebook instance._ 
-5. Fill in notebook instance settings. Input a unique name under _notebook instance name._ Leave other options as the default. 
-6. Under _Permissions and encryption_, open the drop down menu and choose _Create a new role._ Keep the default settings. Keep the other settings in this section as the default. 
+3. Find Notebook on the left navigation bar. Choose *Notebook instances*. 
+4. Choose *Create notebook instance.* 
+5. Fill in notebook instance settings. Input a unique name under *notebook instance name.* Leave other options as the default. 
+6. Under *Permissions and encryption*, open the drop down menu and choose *Create a new role.* Keep the default settings. Keep the other settings in this section as the default. 
 <img width="569" alt="Screen Shot 2021-08-17 at 3 13 58 PM" src="https://user-images.githubusercontent.com/88006687/129786612-b56a718c-f96e-4da9-970c-84be795b83f9.png">
-7. Under the _Git repositories_, open the drop down menu and choose _Clone a public Git repository to this notebook instance only._ Copy the URL of this GitHub repository: https://github.com/awszhouanni/aws-machine-learning-curriculum-translate. Paste it under _Git repository URL._ 
+7. Under the *Git repositories*, open the drop down menu and choose *Clone a public Git repository to this notebook instance only.* Copy the URL of this GitHub repository: https://github.com/awszhouanni/aws-machine-learning-curriculum-translate. Paste it under *Git repository URL.*
 <img width="475" alt="Screen Shot 2021-08-17 at 3 19 24 PM" src="https://user-images.githubusercontent.com/88006687/129787279-16bc2302-59dc-4358-9745-0ff0dea6af12.png">
-8. Choose _Create notebook Instance_. 
-9. SageMaker takes a few minutes to create the notebook instance. Under _Notebook instances_, find your unique notebook instance. Wait for the status to change from _Pending_ to _InService_. You can refresh the page.  
+8. Choose *Create notebook Instance*. 
+9. SageMaker takes a few minutes to create the notebook instance. Under *Notebook instances*, find your unique notebook instance. Wait for the status to change from *Pending* to *InService*. You can refresh the page.  
 
 <img width="897" alt="Amazon SageMaker Console GitHub Repositories" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
 
 
 Now, you can access the repostories through Amazon SageMaker's notebook instances. 
-1. Choose the notebook instance titled **Module #1**. 
-2. Choose **Open JupyterLab.** 
+1. Choose the notebook instance titled *Module #1*. 
+2. Choose *Open JupyterLab.* 
 3. Then, choose the folder "Module 1." 
 4. Choose the JupyterNotebook titled "Translate text into spoken translations with Amazon Translate and Amazon Polly" to begin the curriculum.
