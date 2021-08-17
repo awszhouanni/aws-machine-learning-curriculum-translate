@@ -29,8 +29,8 @@ After you have all the accounts set up, you can open the Jupyter notebooks that 
 1. Log into AWS account. 
 2. Go to the Amazon SageMaker Console.
 3. Find Notebook on the left navigation bar. Choose *Notebook instances*. 
-4. Choose *Create notebook instance.* 
-5. Fill in notebook instance settings. Input a unique name under *notebook instance name.* Leave other options as the default. 
+4. Choose _Create notebook instance_. 
+5. Fill in notebook instance settings. Input a unique name under _notebook instance name._ Leave other options as the default. 
 6. Under *Permissions and encryption*, open the drop down menu and choose *Create a new role.* Keep the default settings. Keep the other settings in this section as the default. 
 <img width="569" alt="Screen Shot 2021-08-17 at 3 13 58 PM" src="https://user-images.githubusercontent.com/88006687/129786612-b56a718c-f96e-4da9-970c-84be795b83f9.png">
 7. Under the *Git repositories*, open the drop down menu and choose *Clone a public Git repository to this notebook instance only.* Copy the URL of this GitHub repository: https://github.com/awszhouanni/aws-machine-learning-curriculum-translate. Paste it under *Git repository URL.*
